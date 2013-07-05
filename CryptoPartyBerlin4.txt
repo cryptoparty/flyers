@@ -1,0 +1,103 @@
+    "Privacy is the power to selectively reveal oneself to the world."
+    - Cypherpunk Manifesto, 1993.
+
+    -----BEGIN RSA PRIVATE KEY-----
+    xf5lkPcnPEbz3pmXilW8dkFn9/Q/LaBxVUR6g6Utci4vcddwEJaIHx3MaPKGSG4q
+    DvnwUgwhmEeI/HKqICitnWtas3K5xK7SIkVKrmS6th2qYgGj/aGNckF8b/PihGjY
+    lbl4mUJrnvBJaqBUxnPGff+RjHri9BSWai9rdU99ZCwIDAQABAoIBADx8IwtMLnn
+    5NZKel7yOTVl7DOlk3UoQXa1z6h976NLx81PiHcwtlHZ917sS6+mHVHw5XebHqJE
+    eglgHd2DU+saUwacleSlgFaiUI8qm1qwE+mSg7OmAu1cjeZ8zZkj8p/wPuY2xlJE
+    L6u53jzZY9FdQwbv9+VIzxw7cVBUC03DJLgNrTn3ckKEzc3Kriib+z9rI/GCELu1
+    s2v/xfH/kkGLRqE7KCk77Hh3/STAxySam3MonvN0XlRM8A1gIW94tyEAbmoLxbOC
+    xcLX1YaV3Cxi9ACC4PdydA0Ypsrf4VEN7ETRKH7iTiYBAUZ7LudfESGZXfGP1GDU
+    oZFzxIBtOa8ECgYEA1bUbWUeJ7+WfDa8JmmIa8mLb5M59gFgh4J9IDNJx8ZNrRNu  
+    nwtrjAIfDIYMqmooaof7YgsxgLz+ZcU| |Jh751ms0wkds3Snl+6qBy/3HnI48qb
+    jnjkjdadap/ __| '__| | | | '_ \| __/ _ \n98sau98u98a98798782hiuh 
+    jxxccdsad| (__| |  | |_| | |_) | || (_) |a86K2Mzwj+99uhjk1hj1hjs
+    akjskm098h\___|_|   \__, | .__/ \__\___/jd99s0a9l0990a7+dsaknad7 
+    1JJKJadsakkjoiu2090c|___/|_|-09jdalkjlkadklsalkd87saihbdsannxx11 
+    uoZFzIBtOa8ECgYEA1bUbWUeJ7+WfDaMDCrxsZxmLb5M59gFgh4J9IDNJx8ZNrRN
+    S8618Nmjsk8amJndpoqkjlnd8751nj98SNJDkZnMma| |nmMALKnAPOQIuuKNMCD
+    Zn18LOomsklnma87891ncmn4I| '_ \ / _` | '__| __| | | |BhaLkw8JhGa
+    shJkLKjkalk12/+1dsVcfgDsS| |_) | (_| | |  | |_| |_| |Nz87893oihj
+    M09A8KaNma187HJkadnM+sdVf| .__/ \__,_|_|   \__|\__, |10Kla+4lsdN
+    cmMN1Janbsd82HgdfG81445Mn|_|0Kla/sHaj243676HaK1|___/aZdhjkaZ817d
+    tUY1xI/zRRZvw88GajezKm3oiRjdppiLVqSwYG6NRkoZvGkTUUljq60klkjee+5T
+    3y2ZQ0Cpvs9aN7AXghCAwKnRiBIsshx0xuvW4EvtnCMEPg1EewDiCzGLkSOuKAbA
+    d9XVGFfvhHsMVNKCBd3JlXO+ygwlCqvrSuMDI8| || |g2BBeg2khGVLqBf0OSBu
+    KDDwYmv6J1mj8qGhGGbHaalyjePo2OflxvCq3G| || |_ebgP3cIPBclQkD8sn1m
+    o0yBJVhv28XCKPOwo3US3nY9mzrXfuCiPGrkFn|__   _|TGIrldw2/YfI5iDMCv
+    fuREsMg698TmZum4kdCxwg5Q0AzpEdlyW98PR7xTi| | gLSwj6EmkslgGcnyChF
+    f61M+u/JgkQKBgB5KCUjrVMG8xicZ+zUTGchOCzlzV+zWvpLbO/slxCIhi+aLMWP
+    t+je5KTbXzpyjxoAWN9Pw0/LxQLxXsgtipa1WEpdKguviNChiXuqOMlo9Ie0Ou9R
+    NCKCs6eiK6xijeZiBDFVcWF4dVThM1lkiWw394ovn7BdAJ1BOAMF06ZK1/bJWZgW
+    A0O0UAIfDIYMqmooaof7YgsxgLz+ZcUvFk33Snl+6qBy/3HnI48qbnwtrjE8CgYE
+    +XdpuUwlEzwuv5xD1eDqh0Y9/yE7yAmcHlsrdWcFAtyzFNU9lUE/M+AEoAGtIV/r
+    tDvEidtFmkr/sMAxxhACu0zqd5wKBgQCV3ruJpUh6zYNtWbj8efLChRHA+wCXwJi
+    LzVI2G18ZduTfbK/kXxZatpamEgPAudc/HrwkkdkxJzDuG5nDM4U
+    -----END RSA PRIVATE KEY-----
+
+DEUTSCH:
+
+    Privatsphäre ist ein fundamentales Menschenrecht.
+
+    Dennoch wird es im Internet von Firmen und Regierungen, die unsere
+    Tätigkeiten, bis hin zum Lesen unserer eMails auf dem Weg zum
+    Empfänger, verfolgen, schlichtweg ignoriert.
+
+    CryptoParties sind eine globale Bewegung der Bildung und
+    Selbstermächtigung, für den Schutz der Privatsphäre – auch in der
+    digitalen Domäne.
+
+ENGLISH:
+
+    Privacy is a basic human right.
+     
+    On the Internet however this right is increasingly ignored, 
+    especially by many Companies and Governments that 
+    track us, log our online activity and even read emails on 
+    the way to their destinations.
+
+    Crypto Parties are a global movement in the interests of
+    educating and empowering people to protect their privacy in 
+    the digital domain.
+
+WHAT HAPPENS?
+
+    We'll discuss why Cryptography, anonymity and anti tracking tools are important today
+    We'll install online anonymity tools
+    We'll secure our communications using SSH, SSL, OpenVPN, encrypted telephony
+    We'll make sure we can't be easily tracked online using tools like Tor
+    We'll learn about steganography and learn to hide data in other data
+    We'll install and use network forensics tools to find out whether we've done a good job!
+
+    Music will be heard, drinks will be drunk
+    
+WHERE?
+
+    Studio Weise7
+    Weisestraße 7
+    (U8 Boddinstraße)
+    Berlin
+
+HOSTS? 
+
+    Danja, Julian, Marta, Malte
+
+WHEN?
+
+    January 11th, 7pm til late
+
+BRING?
+
+        0. Laptop, tablet or fancy phone 
+        1. Beer or Club Mate
+    
+WHO?
+
+    The Berlin CryptoParties are intended for everyone; no prior technical
+    expertise or knowledge is assumed. 
+    Crypto geeks please come along and help us out!
+
+
+    http://blast.k0a1a.net/cgi-bin/mailman/listinfo/cryptoparty

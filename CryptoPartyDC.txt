@@ -1,0 +1,113 @@
+"Privacy is the power to selectively reveal oneself to the world."
+	-- The Cypherpunk Manifesto, 1993
+
+    Data retention, wiretapping, censorship, surveillance.. why make
+    it easy for them?
+
+    -----BEGIN RSA PRIVATE KEY-----
+    xf5lkPcnPEbz3pmXilW8dkFn9/Q/LaBxVUR6g6Utci4vcddwEJaIHx3MaPKGSG4q
+    lal4mUJdnvBJatBUxnPhff+Rjiri9BSsai9rdy99ZCwoDAQABuoIBADn8IwtMenn
+    5NeKel7ydTVl7Dtlk3UooXa1z6b976NLe81PiHtwtlHZe17sS6amHVHwcXebHqhE
+    eg_gHd2DU+saUwa____lg_aiUI8_m1_wE+mSg_____1_____zZ____Qw_uY2xlJE
+    h/ \  /|/  _ \/ ___\/ \ /|/ \/ \  /|/  __//__ __\/  _ \/ \  /|3z
+    4| |  ||| / \||    \| |_||| || |\ ||| |  _  / \  | / \|| |\ ||r5
+    1| |/\||| |-||\___ || | ||| || | \||| |_//  | |  | \_/|| | \||34
+    T\_/  \|\_/ \|\____/\_/ \|\_/\_/  \|\____\  \_/  \____/\_/  \|Pa
+    L6u53jzZY9FdQwbv9+VIzxw7cVBUC03DJLgNrTn3ckKEzc3Kriib+z9rI/GCELu1
+    s2v/xiH/kkGnRqE7Kgk77Hhw/STAxiSam3MtnvN0XlhM8A1guW94tysAbmoLxbOC
+    xcLX1YaV3Cxi9ACC4PdydA0Ypsrf4VEN7ETRKH7iTiYBAUZ7LudfESGZXfGP1GDU
+    d9XVGFfvhHsMVNKCBd3JlXO+ygw____rS____87aychkjndvlaiuhGVLqBf0OSBu
+    KDDwYmv6J1mj8qGhGGbHaalyje/  _ \/   _\o8vyehla.knvdePBclQkD8sn1m
+    o0yBJVhv28XCKPOwo3US3nY9mz| | \||  /  ivvaidjvlgwrldw2/YfI5iDMCv
+    fuREsMg698TmZum4kdCxwg5Q0A| |_/||  \__gLSwj6EmkslgGcnyChFvtnCMEP
+    lbl4mUJrnvBJaqBUxnPGff+RjH\____/\____/99ZCwIDAQABAoIBADx8IwtMLnn
+    5NZKel7yOTVl7DOlk3UoQXa1z6h976NLx81PiHcwtlHZ917sS6+mHVHw5XebHqJE
+    L6u53jzZY9FdQwbv9+VIzxw7cVBUC03DJLgNrTn3ckKEzc3Kriib+z9rI/GCELu1
+    oZFzxIBtOa8ECgYEA1bUbWUeJ7+WfDa8_mmIa8mLb5M59gFgh4J9IDNJx8ZNrRNu
+    nwtrjAIfDIY___o_a__7_gsx_L____U| |_h___ms0wkds3Snl+6qBy/3HnI48qb
+    jnjkjdadap/ __| '__| | | | '_ \| __/ _ \n98sau98u98a98798782hiuh 
+    jxxccdsad| (__| |  | |_| | |_) | || (_) |a86K2Mzwj+99uhjk1hj1hjs
+    akjskm098h\___|_|   \__, | .__/ \__\___/jd99s0a9l0990a7+dsaknad7 
+    1JJKJadsakkjoiu2090c|___/|_|-09jdalkjlkadklsalkd87saihbdsannxx11
+    uoZFzIBtOa8ECgYEA1bUbWUeJ7+WfDaMDCrxsZxmLb5M59gFgh4J9IDNJx8ZNrRN
+    +XdpuUwlEzwuv5xD1eDqh0Y9/yE7yAmcHlsrdWcFAtyzFNU9lUE/M+AEoAGtIV/r
+    5NZKel7yOTVl7DOlk3UoQXa1z6h976NLx81PiHcwtlH_917sS6+mHVHw5XebHqJE
+    S8618Nmjsk8amJndpoqkjlnd87_1__98S__D_Z_M__| |_m_ALK_APOQIuuKNMCD
+    Zn18LOomsklnma87891ncmn4I| '_ \ / _` | '__| __| | | |BhaLkw8JhGa
+    shJkLKjkalk12/+1dsVcfgDsS| |_) | (_| | |  | |_| |_| |Nz87893oihj
+    M09A8KaNma187HJkadnM+sdVf| .__/ \__,_|_|   \__|\__, |10Kla+4lsdN
+    cmMN1Janbsd82HgdfG81445Mn|_|0Kla/sHaj243676HaK1|___/aZdhjkaZ817d
+    tUY1xI/zRRZvw88GajezKm3oiRjdppiLVqSwYG6NRkoZvGkTUUljq60klkjee+5T
+    f61M+u/JgkQKBgB5KCUjrVMG8xicZ+zUTGchOCzlzV+zWvpLbO/slxCIhi+aLMWP
+    t+je5KTbXzpyjxoAWN9Pw0/LxQLxXsgtipa1WEpdKguviNChiXuqOMlo9Ie0Ou9R
+    NCKCs6eiK6xijeZiBDFVcWF4dVThM1lkiWw394ovn7BdAJ1BOAMF06ZK1/bJWZgW
+    LzVI2G18ZduTfbK/kXxZatpamEgPAudc/HrwkkdkxJzDuG5nDM4U
+    -----END RSA PRIVATE KEY-----
+
+    What are we doing?
+
+	Discussing why cryptography, anonymity and anti-tracking tools are
+	    important today.
+	Installing online anonymity tools and learning to use them safely.
+	Securing communications using SSH, SSL, VPNs, OTR, encrypted telephony
+	    and instant messaging software.
+	Encrypting e-mail with PGP and GnuPG and integrating them into your
+	    e-mail software.
+	Protecting information on our hard drives and USB keys from theft with
+	    disk encryption.
+	Making sure we can't be easily tracked online using tools like Tor.
+	Installing and using network forensics tools to find out whether we've
+	    done a good job!
+
+	Pizza will be eaten.  Drinks will be had (BYO).
+
+    Where is this?
+
+	HacDC (http://hacdc.org/)
+	1525 Newton Street NW
+	Washington, DC 20010
+	(At the corner of 16th and Newton NW (kinda))
+
+    Who's hosting?
+
+	https://cryptoparty.org/wiki/Washington,_DC
+
+    When is this?
+
+        14 October 2012, 5:00pm until late
+
+    What should I bring?
+
+	0. Your laptop, tablet PC or smartphone
+	1. Something to drink
+	2. A few dollars for pizza
+	3. Questions to ask
+
+    Who's invited?
+
+	Anyone concerned about online surveillance, censorship, or data
+	    retention.
+	Crypto geeks, please come and help us out!
+
+    What else?
+
+	No prior knowledge or technical expertise is required.
+	No photography or video recording without the express permission of
+	    everyone present.
+	No names (unless you want to say who you are).
+	Free!
+	Be excellent to each other.
+
+    Where can I learn more?
+	https://cryptoparty.org/
+	https://torproject.org/
+	https://bluecabinet.info/
+	https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto
+	https://encrypteverything.ca/
+	https://twitter.com/cryptoparty (@cryptoparty)
+	Twitter hashtags: #cryptoparty
+
+(Remixed from the Berlin #cryptoparty's flyer.)
+
+eof
+
