@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.28px" height="841.89px" viewBox="0 0 595.28 841.89" enable-background="new 0 0 595.28 841.89" xml:space="preserve">
+<g id="BG">
+	<g id="BigKey" opacity="0.08">
+		<rect x="243.239" y="240.471" width="120.288" height="120.183"/>
+		<rect x="241.239" y="0.362" width="122.288" height="120.165"/>
+		<polygon points="363.656,721.138 363.656,600.973 484.361,600.973 484.361,480.817 484.361,360.654 484.361,240.718 
+			484.361,240.471 484.361,120.527 483.361,120.51 484.361,0.362 363.048,0.362 363.048,120.51 363.048,120.527 363.048,240.471 
+			363.048,240.718 363.048,360.654 363.048,480.817 363.048,600.973 363.527,600.973 363.527,480.817 243.239,480.817 
+			243.239,600.973 243.369,600.973 243.369,721.138 243.239,721.138 243.239,841.292 364.527,841.292 364.527,721.138 
+			363.048,721.138 363.048,841.292 483.361,841.292 483.361,721.138 		"/>
+		<rect x="482.688" y="721.138" width="112.593" height="120.154"/>
+		<rect x="482.333" y="480.817" width="112.947" height="120.155"/>
+	</g>
+</g>
+<g id="Text">
+	<text transform="matrix(1 0 0 1 42.854 263.5947)" font-family="'EurostileLTStd-Demi'" font-size="28">What</text>
+	<text transform="matrix(1 0 0 1 43.104 396.6748)" font-family="'EurostileLTStd-Demi'" font-size="28">Where</text>
+	<text transform="matrix(1 0 0 1 43.104 418.877)"><tspan x="0" y="0" font-family="'EurostileLTStd'" font-size="14">Currently events are taking place in numerous locations around the world.</tspan><tspan x="0" y="16.8" font-family="'EurostileLTStd'" font-size="14">Visit the wiki page to learn where and when events near you are happening </tspan><tspan x="0" y="33.6" font-family="'EurostileLTStd'" font-size="14">and how to start one in your area.</tspan></text>
+	<text transform="matrix(1 0 0 1 42.854 286.1489)"><tspan x="0" y="0" font-family="'EurostileLTStd'" font-size="14">CryptoParty is a decentralized, global initiative to introduce the most basic </tspan><tspan x="0" y="16.8" font-family="'EurostileLTStd'" font-size="14">cryptography programs and the fundamental concepts of their operation to </tspan><tspan x="0" y="33.6" font-family="'EurostileLTStd'" font-size="14">the general public.</tspan></text>
+	<text transform="matrix(1 0 0 1 43.104 527.6084)" font-family="'EurostileLTStd-Demi'" font-size="28">Why</text>
+	<text transform="matrix(1 0 0 1 43.104 549.377)"><tspan x="0" y="0" font-family="'EurostileLTStd'" font-size="14">Attend a CryptoParty to learn and teach how to use basic cryptography tools. </tspan><tspan x="0" y="16.8" font-family="'EurostileLTStd'" font-size="14">A CryptoParty is free, public and fun. People bring their computers, mobile </tspan><tspan x="0" y="33.6" font-family="'EurostileLTStd'" font-size="14">devices, and a willingness to learn! </tspan></text>
+	<text transform="matrix(1 0 0 1 41.104 658.9023)" font-family="'EurostileLTStd-Demi'" font-size="28">How</text>
+	<text transform="matrix(1 0 0 1 42.166 681.043)"><tspan x="0" y="0" font-family="'EurostileLTStd'" font-size="14">Throw a party. All you need is a time, a date and a location. Visit the wiki page </tspan><tspan x="0" y="16.8" font-family="'EurostileLTStd'" font-size="14">below to find out more.</tspan></text>
+	<text transform="matrix(1 0 0 1 21 780)"><tspan x="0" y="0" font-family="'EurostileLTStd-Ex2'" font-size="14">CRYPTOPARTY INFO: http://www.cryptoparty.in</tspan><tspan x="0" y="17.5" font-family="'EurostileLTStd-Ex2'" font-size="14">TWITTER: #CryptoParty </tspan></text>
+	<text transform="matrix(1 0 0 1 415.5313 215.292)" opacity="0.8" font-family="'NewsGothicMT-Italic'" font-size="18">Party like it’s 1984!</text>
+</g>
+<g id="Logo">
+	<polygon fill="#A0519F" points="20.49,0.647 0,0.647 0,22.695 0,44.713 0,66.732 0,88.775 20.49,88.775 42.553,88.775 
+		64.569,88.775 64.569,66.732 42.553,66.732 20.49,66.732 20.49,44.713 20.49,22.695 42.553,22.695 64.569,22.695 64.569,0.647 
+		42.553,0.647 	"/>
+	<path fill="#A0519F" d="M108.603,0.647H86.585v22.048v22.019v22.019v22.042h22.017V66.732h22.063V44.744h22.017V22.695l0,0V0.647
+		h-22.017H108.603z M130.666,22.695v21.991h-22.063V22.695H130.666L130.666,22.695z"/>
+	<rect x="130.666" y="66.732" fill="#A0519F" width="22.017" height="22.042"/>
+	<polygon fill="#A0519F" points="218.78,22.695 218.78,44.686 196.764,44.686 196.764,22.669 196.716,22.669 196.716,0.647 
+		174.7,0.647 174.7,22.669 174.7,22.695 174.7,44.686 174.7,66.732 196.716,66.732 196.764,66.732 218.78,66.732 218.78,88.775 
+		240.796,88.775 240.796,66.732 240.796,44.713 240.796,22.695 240.796,0.647 218.78,0.647 	"/>
+	<path fill="#A0519F" d="M284.825,0.647h-22.014v22.048v22.019v22.019v22.042h22.014V66.732h22.068h22.017V44.686V22.695v-0.026
+		V0.647h-22.017H284.825z M306.894,44.686h-22.068V22.695h22.068V44.686z"/>
+	<polygon fill="#A0519F" points="372.953,0.647 350.93,0.647 350.93,22.695 372.953,22.695 372.985,22.695 372.985,44.713 
+		372.985,66.732 372.985,88.775 395.006,88.775 395.006,66.732 395.006,44.713 395.006,22.695 417.027,22.695 417.027,0.647 
+		395.006,0.647 	"/>
+	<path fill="#A0519F" d="M286.565,110.794h-22.018v22.006v22.017v22.054v22.039h22.018v-22.039h22.064v22.039h22.017v-22.039
+		v-22.055v-22.016v-22.006h-22.017H286.565L286.565,110.794z M308.629,154.818h-22.064v-22.017h22.064V154.818z"/>
+	<path fill="#A0519F" d="M198.455,110.794h-22.018v22.006v22.017v22.054v22.039h22.018v-22.039h22.057h22.02v-22.055v-22.016v-0.029
+		v-21.977h-22.02H198.455z M220.511,154.818h-22.057v-22.017h22.057V154.818z"/>
+	<polygon fill="#A0519F" points="462.793,110.794 440.776,110.794 440.776,132.802 462.793,132.802 462.842,132.802 
+		462.842,154.818 462.842,176.873 462.842,198.912 484.858,198.912 484.858,176.873 484.858,154.818 484.858,132.802 
+		506.874,132.802 506.874,110.794 484.858,110.794 	"/>
+	<path fill="#A0519F" d="M374.682,110.794h-22.017v22.006v22.017v22.054v22.039h22.017v-22.039h22.062v-22.023h22.017v-22.016
+		v-0.031v-22.007h-22.017L374.682,110.794L374.682,110.794z M396.743,132.833v21.986h-22.062v-22.017h22.062V132.833z"/>
+	<rect x="396.743" y="176.873" fill="#A0519F" width="22.017" height="22.038"/>
+	<polygon fill="#A0519F" points="572.969,110.794 572.969,132.802 572.969,154.818 550.951,154.818 550.951,132.772 
+		550.907,132.772 550.907,110.794 528.89,110.794 528.89,132.772 528.89,132.802 528.89,154.818 528.89,176.873 550.907,176.873 
+		550.951,176.873 572.969,176.873 572.969,198.912 594.986,198.912 594.986,176.873 594.986,154.818 594.986,132.802 
+		594.986,110.794 	"/>
+	<rect x="462.06" y="66.526" fill="#ED2690" width="22.017" height="22.046"/>
+	<rect x="528.108" y="66.732" fill="#ED2690" width="22.019" height="22.042"/>
+	<rect x="484.076" y="66.732" fill="#ED2690" width="22.016" height="22.042"/>
+	<rect x="440.044" y="66.732" fill="#ED2690" width="22.015" height="22.042"/>
+	<rect x="528.108" y="44.624" fill="#ED2690" width="22.019" height="22.047"/>
+	<rect x="506.092" y="44.624" fill="#ED2690" width="22.017" height="22.047"/>
+	<rect x="572.103" y="66.732" fill="#ED2690" width="22.017" height="22.042"/>
+	<rect x="572.103" y="44.624" fill="#ED2690" width="22.017" height="22.047"/>
+	<rect x="550.086" y="44.624" fill="#ED2690" width="22.017" height="22.047"/>
+	<rect x="484.076" y="44.624" fill="#ED2690" width="22.016" height="22.047"/>
+	<rect x="440.044" y="44.624" fill="#ED2690" width="22.015" height="22.047"/>
+	<rect x="484.076" y="22.489" fill="#ED2690" width="22.016" height="22.045"/>
+	<rect x="440.044" y="22.489" fill="#ED2690" width="22.015" height="22.045"/>
+	<rect x="484.076" y="0.443" fill="#ED2690" width="22.016" height="22.046"/>
+	<rect x="462.06" y="0.443" fill="#ED2690" width="22.017" height="22.046"/>
+	<rect x="440.044" y="0.443" fill="#ED2690" width="22.015" height="22.046"/>
+	<rect x="110.38" y="176.665" fill="#ED2690" width="22.016" height="22.039"/>
+	<rect x="44.329" y="176.873" fill="#ED2690" width="22.02" height="22.038"/>
+	<rect x="88.365" y="176.873" fill="#ED2690" width="22.015" height="22.038"/>
+	<rect x="132.396" y="176.873" fill="#ED2690" width="22.017" height="22.038"/>
+	<rect x="44.329" y="154.733" fill="#ED2690" width="22.02" height="22.043"/>
+	<rect x="66.349" y="154.733" fill="#ED2690" width="22.017" height="22.043"/>
+	<rect x="0.338" y="176.873" fill="#ED2690" width="22.016" height="22.038"/>
+	<rect x="0.338" y="154.733" fill="#ED2690" width="22.016" height="22.043"/>
+	<rect x="22.354" y="154.733" fill="#ED2690" width="22.022" height="22.043"/>
+	<rect x="88.365" y="154.733" fill="#ED2690" width="22.015" height="22.043"/>
+	<rect x="132.396" y="154.733" fill="#ED2690" width="22.017" height="22.043"/>
+	<rect x="88.365" y="132.627" fill="#ED2690" width="22.015" height="22.046"/>
+	<rect x="132.396" y="132.627" fill="#ED2690" width="22.017" height="22.046"/>
+	<rect x="88.365" y="110.589" fill="#ED2690" width="22.015" height="22.038"/>
+	<rect x="110.38" y="110.589" fill="#ED2690" width="22.016" height="22.038"/>
+	<rect x="132.396" y="110.589" fill="#ED2690" width="22.017" height="22.038"/>
+</g>
+<g id="Bullets">
+	<rect y="243.67" fill="#ED2690" width="21.839" height="21.863"/>
+	<rect y="265.533" fill="#ED2690" width="21.839" height="21.863"/>
+	<rect y="506.698" fill="#ED2690" width="21.839" height="21.862"/>
+	<rect y="528.561" fill="#ED2690" width="21.839" height="21.863"/>
+	<rect y="375.982" fill="#A0519F" width="21.839" height="21.862"/>
+	<rect y="397.845" fill="#A0519F" width="21.839" height="21.862"/>
+	<rect y="637.762" fill="#A0519F" width="21.839" height="21.862"/>
+	<rect y="659.624" fill="#A0519F" width="21.839" height="21.863"/>
+	<rect y="287.396" fill="#ED2690" width="21.839" height="21.863"/>
+	<rect y="550.424" fill="#ED2690" width="21.839" height="21.863"/>
+	<rect y="419.708" fill="#A0519F" width="21.839" height="21.862"/>
+	<rect y="681.487" fill="#A0519F" width="21.839" height="21.863"/>
+</g>
+</svg>
