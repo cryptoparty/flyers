@@ -1,0 +1,67 @@
+kryptographie fuer postkarten.
+ein workshop zur geschichte der kryptographie.
+
+die einfuehrung beginnt bei den begrifflichkeiten ueber text und code, 
+schluessel und verschluesselung, sprache als interpretation von zeichen(-ketten) und
+geht weiter in die ersten verschluesselungs techniken, bis hin zu einem 
+erklaerungsversuch von asymetrischer verschluesselung und quantenmechanischen ansaetzen.
+
+der praktische teil beschaeftigt sich mit einfachen verschluesselungsverfahren 
+die man zb zum schreiben und "verschluesseln" von urlaubspostkarten 
+einsetzen kann. und soll anschaulich die grundlagen der cryptographie erklaeren. 
+dazu werden wir postkarten verschluesseln und mittels kryptoanalyse dechiffrieren.
+
+der zweite teil behandelt theoretisch die gegenwaertigen digitalen verfahren 
+zur abhoersicheren kommunikation mittels, ssl und pgp.
+
+
+stichwoerter: schutzziele, geschichte (geheimschriften) abgrenzung zu steganographie, 
+sicherheitsueberlegeungen (schluessellaenge,schluesselverteilung), one time pad, ssl,
+password gorilla, pgp, schluessel vs methode (RNG).
+
+teilnehmerinnen: fuer den workshop ist kein vorwissen notwending 
+
+
+
+MMMMNy+/+yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMy` .:. `yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMs -mMMMd- yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MN .NMMMMMN`.MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+Mh oMMMMMMM+ /o+++++++++++++++++//////////////sMMM
+Mh oMMMMMMMo +ooooooooosssssssssss+         `ydMMM
+MN .MMMMMMM.`NMMMMMMMMMMMMMMMMMMMMh         .MMMMM
+MMo :NMMMN: sMMMMMMMMMMMMMMMMMMMMMh         .MMMMM
+MMM+  -/:  +MMMMMMMMMMMMMMMMMMMMMMd .`   /m/.MMMMM
+MMMMd+-.-+dMMMMMMMMMMMMMMMMMMMMMMMm-m:  ymMyoMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyNMMMy yMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy-hmN./ +:dMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy.:/ .-/ / hMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`..  `. . yMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy          yMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh          yMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmsysyssssyymMMMM
+
+
+cryptography for postcards.
+a workshop on the history of cryptography.
+
+the introduction beginns with the terminology to text and code, key and encryption,
+language as interpretation of signs and strings and continuous to the first
+cryptographic technics, up to an attempt to explain the asymetric encryption 
+and the quatum mechanical approaches.
+
+the practial part consists hands on exploration into very simple cryptographic
+mechanisms, that can be used for instance to "encrypt" postcards.
+this should explain the basic theories of cryptography.
+therefore we will encrypt postcard messages and dechipher them with cryptoanalysis.
+
+the second part is about the theorie behind contemporary digital procedures
+for bugprooved communication methods via ssl and pgp.
+
+keywords: protective goals, history (cryptographs) distinction to steganography,
+security considerations (keylength, keydistribution), one time pad, ssl, password
+gorilla, pgp, key vs method (RNG).
+
+participants: for the workshop no prior knowledge is necessary.
