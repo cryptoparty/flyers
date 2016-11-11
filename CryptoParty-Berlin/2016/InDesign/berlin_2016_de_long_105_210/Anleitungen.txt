@@ -1,0 +1,87 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: CP Flyer 105_210_DRUCK 160629.indd
+
+PACKDATUM: 16.10.2016 11:37 Uhr
+Erstellungsdatum 29.06.2016
+Änderungsdatum: 04.07.2016
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Ohne
+
+SCHRIFTARTEN
+3 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: DIN-Bold; Typ: OpenType Type 1, Status: OK
+- Name: DIN-Medium; Typ: OpenType Type 1, Status: OK
+- Name: DIN-Regular; Typ: OpenType Type 1, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 1 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 1 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: Geräteunabhängig, (PostScript®-Datei)
+Druckausgabe: Prepress-Datei
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Alle
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 105 mm x 210 mm
+Papierabmessungen: 0 mm x 0 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. CP Flyer 105_210_DRUCK 160629.indd; Typ: Adobe InDesign-Satzdatei; Größe: 2824K
+2. DIN-Bold.otf; Typ: Schriftartendatei; Größe: 27K
+3. DIN-Medium.otf; Typ: Schriftartendatei; Größe: 27K
+4. DIN-Regular.otf; Typ: Schriftartendatei; Größe: 26K
