@@ -79,7 +79,7 @@ Keine Vorkenntnisse nötig!
 
 #v(1fr)
 
-Alle genauen Infos zu Ort und Zeit unter: \
+Alle Infos zu Ort, Zeit & Code of Conduct unter: \
 https://cryptoparty.in/berlin/flinta
 
 // vim: set sw=2 ft=none :
