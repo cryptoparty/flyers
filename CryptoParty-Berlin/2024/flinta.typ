@@ -5,14 +5,14 @@
   title: "Flyer FLINTA* Crypto-Party 2024",
 )
 #set page(
-  paper: "a5",
+  paper: "a6",
   fill: gradient.linear(primary.lighten(50%), secondary.lighten(50%)),
 )
 
 #set text(lang: "de",
          // https://rubjo.github.io/victor-mono/
          font: "Victor Mono",
-         size: 10pt)
+         size: 9pt)
 
 #set enum(indent: 1em, numbering: n => [#text(fill: red, numbering("1.", n))])
 #set list(indent: 1em, marker: n => [#text(fill: red, "•")])
@@ -45,7 +45,7 @@
 #v(1fr)
 #context [
   #place(right, dy: +5%, rotate(-12deg, ellipse(width: 100pt, height: 50pt, fill: primary)))
-  #align(center, text(3em, weight: 700, "FLINTA*\nCrypto-Party 2024"))
+  #align(center, text(2em, weight: 700, "FLINTA*\nCrypto-Party 2024"))
 ]
 #v(1fr)
 
