@@ -70,12 +70,12 @@ Eigene Geräte (Laptop/Smartphone/Tablet) mitbringen!
   align: (right, right),
   [*Jeden ungeraden Monat online*], [*Jeden geraden Monat in Berlin*],
   table.hline(),
-    [3.1.],   [7.2.],
-    [6.3.],   [3.4.],
-    [3.5.],  [12.6.],
-    [3.7.],   [7.8.],
-    [4.9.],  [2.10.],
-   [6.11.],  [4.12.],
+//    [3.1.2024],   [7.2.2024],
+//    [6.3.2024],   [3.4.2024],
+    [3.5.2024],  [12.6.2024],
+    [3.7.2024],   [7.8.2024],
+    [4.9.2024],  [2.10.2024],
+   [6.11.2024],  [4.12.2024],
   table.hline()
 )
 
