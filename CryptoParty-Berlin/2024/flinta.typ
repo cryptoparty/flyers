@@ -78,10 +78,11 @@ Eigene Geräte (Laptop/Smartphone/Tablet) mitbringen!
    [6.11.2024],  [4.12.2024],
   table.hline()
 )
+Immer um 19:00!
 
 #v(1fr)
 
-Alle Infos zu Ort, Zeit & Code of Conduct unter: \
+Alle Infos zu Ort & Code of Conduct unter: \
 https://cryptoparty.in/berlin/flinta
 
 // vim: set sw=2 ft=none :
