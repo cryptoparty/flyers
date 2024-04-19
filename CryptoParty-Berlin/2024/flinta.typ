@@ -67,6 +67,7 @@ Eigene Geräte (Laptop/Smartphone/Tablet) mitbringen!
   columns: 2,
   stroke: (none),
   table.hline(),
+  align: (right, right),
   [*Jeden ungeraden Monat online*], [*Jeden geraden Monat in Berlin*],
   table.hline(),
     [3.1.],   [7.2.],
