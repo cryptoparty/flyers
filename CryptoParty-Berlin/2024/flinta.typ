@@ -61,6 +61,7 @@ Werbetracking vermeiden,
 ...
 
 Keine Vorkenntnisse nötig!
+Eigene Geräte (Laptop/Smartphone/Tablet) mitbringen!
 
 #table(
   columns: 2,
